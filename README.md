@@ -1,2 +1,0 @@
-# servidores
-Resumenes
